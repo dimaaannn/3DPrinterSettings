@@ -1,3 +1,9 @@
+
+файлы прошивки для обновления на новые версии (Вторая версия прошивки не подошла)
+Название платы - mks robin nano V1.2
+https://github.com/makerbase-mks/MKS-Robin-Nano-V1.X/tree/master/Nano%20firmware%20v2.x.x
+
+
 Для прошивки - 
 
 1. скопировать файлы из папки v2.x Marlin official на карту памяти
